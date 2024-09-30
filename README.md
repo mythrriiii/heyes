@@ -1,6 +1,15 @@
-# HEYES
+# Heyes!
 
 ![image](https://github.com/user-attachments/assets/5bbd0d40-3746-4f32-b3a7-d6c731ef5d9a)
+
+# HACK GT 9 Submission
+Team: xingxing :)
+
+'heyes (hi+eyes): from hands to eyes'
+
+Translate your gestures into words to help you communicate easier. Not being able to hear, doesn't mean that you cannot be heard.
+
+- [Hack GT 9 Devpost](https://devpost.com/software/xingxing)
 
 
 # Inspiration
