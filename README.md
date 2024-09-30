@@ -1,3 +1,7 @@
+#HEYES
+![image](https://github.com/user-attachments/assets/5bbd0d40-3746-4f32-b3a7-d6c731ef5d9a)
+
+
 # Inspiration
 We noticed a problem. Even with more than 70 million people around the world using sign language to communicate, there is a disconnect between them and the “hearing” society. In the computational ethics class, we learned about the Americans with Disabilities Act along with the ACM honor code, both emphasizing that it is wrong to discriminate against people who are disabled or at a disadvantage to others. In reflection on both, we found that most technologies seemingly are not adapted for everyone and only consider the non-disabled majority as their target audience. Many times this discrimination is due to a lack of understanding and empathy between the parties. We wanted to find a way to bridge people with the least amount of effort on their part to eliminate any potential roadblocks between them. To do so, we created a visual-based dynamic application to ease communication between sign language and written languages that uses machine learning to improve its accuracy.
 
